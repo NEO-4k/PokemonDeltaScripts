@@ -1,4 +1,4 @@
-# PokemonDeltaScripts
+
 -- Roblox Pokemon Delta Script
 local DataStoreService = game:GetService("DataStoreService")
 local PokemonStore = DataStoreService:GetDataStore("PokemonStorage")
